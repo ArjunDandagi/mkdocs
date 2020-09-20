@@ -1,5 +1,0 @@
-site_name: MkDocs
-theme:
-  name: material
-  palette:
-    scheme: slate
